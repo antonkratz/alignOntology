@@ -1,0 +1,9 @@
+./calculateFDRs ~/git_20_Nov/cmatrix/models/cmatrix_nws_boost_alpha_0.01.tsv pearl2015.txt 0.01 criss_cross 20_Nov/alpha_0.01 100 30 gene
+./calculateFDRs ~/git_20_Nov/cmatrix/models/cmatrix_nws_boost_alpha_0.02.tsv pearl2015.txt 0.01 criss_cross 20_Nov/alpha_0.02 100 30 gene
+./calculateFDRs ~/git_20_Nov/cmatrix/models/cmatrix_nws_boost_alpha_0.03.tsv pearl2015.txt 0.01 criss_cross 20_Nov/alpha_0.03 100 30 gene
+./calculateFDRs ~/git_20_Nov/cmatrix/models/cmatrix_nws_boost_alpha_0.04.tsv pearl2015.txt 0.01 criss_cross 20_Nov/alpha_0.04 100 30 gene
+./calculateFDRs ~/git_20_Nov/cmatrix/models/cmatrix_nws_boost_alpha_0.05.tsv pearl2015.txt 0.01 criss_cross 20_Nov/alpha_0.05 100 30 gene
+./calculateFDRs ~/git_20_Nov/cmatrix/models/cmatrix_nws_boost_alpha_0.06.tsv pearl2015.txt 0.01 criss_cross 20_Nov/alpha_0.06 100 30 gene
+./calculateFDRs ~/git_20_Nov/cmatrix/models/cmatrix_nws_boost_alpha_0.07.tsv pearl2015.txt 0.01 criss_cross 20_Nov/alpha_0.07 100 30 gene
+./calculateFDRs ~/git_20_Nov/cmatrix/models/cmatrix_nws_boost_alpha_0.08.tsv pearl2015.txt 0.01 criss_cross 20_Nov/alpha_0.08 100 30 gene
+./calculateFDRs ~/git_20_Nov/cmatrix/models/cmatrix_nws_boost_alpha_0.09.tsv pearl2015.txt 0.01 criss_cross 20_Nov/alpha_0.09 100 30 gene
