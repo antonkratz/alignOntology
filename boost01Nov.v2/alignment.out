@@ -1,0 +1,63 @@
+Getting ontology 1
+Getting ontology 2
+Minimum similarity value accepted: 0.01
+No parent child criss cross allowed
+Terms in first ontology: 378	Nodes in second ontology: 497
+Calculating extsim
+calculateExtSim took 0 seconds
+Starting iteration
+Adding relSim to simMat
+addRelSimToSimMat took 0 seconds
+Aligning
+Mappings in alignment: 280
+Alignment took 0 seconds
+Got an alignment
+Starting iteration
+Adding relSim to simMat
+addRelSimToSimMat took 0 seconds
+Aligning
+Mappings in alignment: 280
+Alignment took 0 seconds
+Got an alignment
+Matched
+336	Chromatin remodelling	0.157565
+337	GGR (Global genome repair)	0.242804
+338	SHORT PATCH-BER factors	0.345805
+339	Direct Repair	0.20662
+341	RAD9-Hus1-Rad1 complex	0.222572
+342	UBL-conjugating enzymes	0.0809671
+343	DNA replication	0.0693702
+344	TLS	0.496517
+345	Chromosome segregation	0.520835
+346	Ubiquitin-conjugating enzymes	0.163086
+347	Modulation of nucleotide pools	0.157813
+348	G1-S checkpoint	0.225389
+349	RPA (replication factor A)	0.189305
+350	Y-family DNA polymerases	0.301826
+351	DNA glycosylases	0.21969
+352	NHEJ	0.15346
+353	DNA polymerase kappa	0.0170303
+354	Other MMR factors	0.0378312
+355	Telomere maintenance	0.14203
+356	S-CC phase	0.0515705
+357	Genes with probable DDR role	0.0519675
+358	damage in S phase	0.0734356
+359	G1-CC phase	0.0568156
+360	TCR (Transcription coupled repair)	0.281129
+361	DNA polymerases	0.0481499
+362	MMR	0.459648
+363	LONG PATCH-BER factors	0.187064
+364	Other BER factors	0.151596
+365	FA (Fanconi anemia pathway)	0.473889
+366	NER	0.266627
+367	p53 pathway	0.019627
+368	HRAD17(Rad24)- RFC complex	0.0955269
+369	Other DSR genes	0.0399623
+370	BER	0.312105
+371	Alt-NHEJ	0.0496487
+372	Checkpoint factors	0.0667982
+373	SSR	0.399595
+374	HR (Homologous Recombination)	0.198038
+375	Associated process	0.147013
+376	DSR	0.344343
+377	Repair pathway	0.374129

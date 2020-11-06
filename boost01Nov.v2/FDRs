@@ -1,0 +1,48 @@
+#BinID	Bin Range	Nodes in Bin	0.05	0.1	0.15	0.2	0.25	0.3	0.35	0.4	0.45	0.5	0.55	0.6	0.65	0.7	0.75	0.8	0.85	0.9
+#5	5 - 8	5	1.1575	0.45	0.0525	0.0166667	0.01	0	Undef	Undef	Undef	Undef	Undef	Undef	Undef	Undef	Undef	Undef	Undef	Undef
+#6	9 - 16	11	0.858182	0.143333	0.01	0.00166667	0	0	0	0	0	0	Undef	Undef	Undef	Undef	Undef	Undef	Undef	Undef
+#7	17 - 32	11	0.8775	0.1275	0.00666667	0	0	0	0	0	0	Undef	Undef	Undef	Undef	Undef	Undef	Undef	Undef	Undef
+#8	33 - 64	9	0.966667	0.18	0.002	0	0	0	0	0	0	Undef	Undef	Undef	Undef	Undef	Undef	Undef	Undef	Undef
+#9	65 - 336	6	0.92	0.744	0.39	0.333333	0.333333	0.333333	0.5	Undef	Undef	Undef	Undef	Undef	Undef	Undef	Undef	Undef	Undef	Undef
+#FDRs For Individual Alignments
+344	TLS	0.496517	0	12
+362	MMR	0.459648	0	31
+373	SSR	0.399595	0	73
+376	DSR	0.344343	0.333333	86
+370	BER	0.312105	0	59
+366	NER	0.266627	0	44
+352	NHEJ	0.15346	0.00333333	18
+371	Alt-NHEJ	0.0496487	0.832857	60
+377	Repair pathway	0.374129	0	336
+375	Associated process	0.147013	0.326	84
+374	HR (Homologous Recombination)	0.198038	0.25	75
+372	Checkpoint factors	0.0667982	0.873333	66
+369	Other DSR genes	0.0399623	0.865	57
+368	HRAD17(Rad24)- RFC complex	0.0955269	0.203333	46
+367	p53 pathway	0.019627	0.981111	44
+365	FA (Fanconi anemia pathway)	0.473889	0	44
+364	Other BER factors	0.151596	0.002	36
+363	LONG PATCH-BER factors	0.187064	0	35
+361	DNA polymerases	0.0481499	0.821111	30
+360	TCR (Transcription coupled repair)	0.281129	0	29
+359	G1-CC phase	0.0568156	0.961667	27
+358	damage in S phase	0.0734356	0.602	25
+357	Genes with probable DDR role	0.0519675	0.941429	23
+356	S-CC phase	0.0515705	0.83125	21
+355	Telomere maintenance	0.14203	0.005	21
+354	Other MMR factors	0.0378312	0.927	20
+353	DNA polymerase kappa	0.0170303	0.990909	19
+351	DNA glycosylases	0.21969	0.00166667	16
+350	Y-family DNA polymerases	0.301826	0	16
+349	RPA (replication factor A)	0.189305	0.00428571	15
+348	G1-S checkpoint	0.225389	0	15
+347	Modulation of nucleotide pools	0.157813	0.00777778	14
+346	Ubiquitin-conjugating enzymes	0.163086	0.00625	14
+345	Chromosome segregation	0.520835	0	13
+343	DNA replication	0.0693702	0.487273	11
+342	UBL-conjugating enzymes	0.0809671	0.31	11
+341	RAD9-Hus1-Rad1 complex	0.222572	0.002	10
+339	Direct Repair	0.20662	0.0133333	8
+338	SHORT PATCH-BER factors	0.345805	0	8
+337	GGR (Global genome repair)	0.242804	0.01	7
+336	Chromatin remodelling	0.157565	0.0475	7

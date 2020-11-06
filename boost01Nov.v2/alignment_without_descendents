@@ -1,0 +1,41 @@
+344	TLS	0.496517
+362	MMR	0.459648
+373	SSR	0.399595
+376	DSR	0.344343
+370	BER	0.312105
+366	NER	0.266627
+352	NHEJ	0.15346
+371	Alt-NHEJ	0.0496487
+377	Repair pathway	0.374129
+375	Associated process	0.147013
+374	HR (Homologous Recombination)	0.198038
+372	Checkpoint factors	0.0667982
+369	Other DSR genes	0.0399623
+368	HRAD17(Rad24)- RFC complex	0.0955269
+367	p53 pathway	0.019627
+365	FA (Fanconi anemia pathway)	0.473889
+364	Other BER factors	0.151596
+363	LONG PATCH-BER factors	0.187064
+361	DNA polymerases	0.0481499
+360	TCR (Transcription coupled repair)	0.281129
+359	G1-CC phase	0.0568156
+358	damage in S phase	0.0734356
+357	Genes with probable DDR role	0.0519675
+356	S-CC phase	0.0515705
+355	Telomere maintenance	0.14203
+354	Other MMR factors	0.0378312
+353	DNA polymerase kappa	0.0170303
+351	DNA glycosylases	0.21969
+350	Y-family DNA polymerases	0.301826
+349	RPA (replication factor A)	0.189305
+348	G1-S checkpoint	0.225389
+347	Modulation of nucleotide pools	0.157813
+346	Ubiquitin-conjugating enzymes	0.163086
+345	Chromosome segregation	0.520835
+343	DNA replication	0.0693702
+342	UBL-conjugating enzymes	0.0809671
+341	RAD9-Hus1-Rad1 complex	0.222572
+339	Direct Repair	0.20662
+338	SHORT PATCH-BER factors	0.345805
+337	GGR (Global genome repair)	0.242804
+336	Chromatin remodelling	0.157565
